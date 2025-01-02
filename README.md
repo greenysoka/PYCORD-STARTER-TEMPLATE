@@ -3,8 +3,9 @@
 Welcome to my py-cord guide for you!
 Choose your language:
 
-[English](#tutorial-in-english)
-[German](#Anleitung-auf-deutsch)
+### [English](#tutorial-in-english)
+
+### [German](#Anleitung-auf-deutsch)
 
 
 ## Tutorial (in English)
