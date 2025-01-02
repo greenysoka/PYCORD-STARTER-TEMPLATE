@@ -8,7 +8,7 @@ intents.message_content = True
 intents.guilds = True
 intents.members = True
 
-bot = commands.Bot(command_prefix='!bot', intents=intents)
+bot = commands.Bot(command_prefix='!', intents=intents)
 
 @bot.event
 async def on_ready():
@@ -26,3 +26,5 @@ async def pingcmd(ctx):
 
 token = "abc"
 bot.run(token)
+
+# Check the main.py for detailed comments on every line!
