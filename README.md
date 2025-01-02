@@ -142,12 +142,13 @@ https://guide.pycord.dev/category/getting-started
 
 If you want to continue and are looking for tutorials, go to YouTube and search for “Py-Cord” and not “discordpy”. These are two different libraries.
 
-**But the whole thing was a bit too much for you and you don't want to waste too much time creating your own bot?
+**But the whole thing was a bit too much for you and you don't want to waste too much time creating your own bot?**
 
 Then I have just the thing for you! My Discord service [GYX Creative](https://discord.gg/6y7mB96YUA) offers you free and personalized bots that you can configure completely according to your wishes! The bots are then mostly made and managed by me personally so you only get the best :)
 From a simple command to a complete support or moderation system, everything can be realized!
 Just open a ticket on the GYX server and we are there for you ^^
 
+My current card page: https://greenysoka.2ix.de
 
 
 
@@ -291,3 +292,5 @@ Falls du weitermachen möchtest und Tutorials suchst, geh auf YouTube und suche 
 Dann hab ich genau das richtige! Mein Discord Service [GYX Creative](https://discord.gg/6y7mB96YUA) bietet dir kostenlose und persönlich angefertigte Bots an, die du komplett nach deinen Wünschen konfigurieren kannst! Die Bots werden dann meist von mir persönlich angefertigt und verwaltet sodass du nur das beste bekommst :)
 Vom einfachen Befehl bis hin zum kompletten Support oder Moderationssystem kann alles umgesetzt werden!
 Öffne einfach ein Ticket auf dem GYX Server und wir sind für dich da ^^
+
+Meine aktuelle Card-Website: https://greenysoka.2ix.de
