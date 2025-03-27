@@ -55,4 +55,6 @@ bot.run(token)
 # Contact me for questions or suggestions!
 
 # Order your own custom discord bot for free!
-# https://discord.gg/6y7mB96YUA
+# - https://sokabots.com
+# - https://greenysoka.sokabots.com
+# - https://discord.sokabots.com
